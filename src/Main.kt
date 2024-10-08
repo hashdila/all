@@ -1,8 +1,8 @@
 fun main() {
     println("Hello World!")
 
-    val  a= "Dillan"
-    val b ="Shirlanka"
+    val  a= "Dillan Nawarathna"
+    val b ="Shirlanka japan"
 
     println(b)
 }
