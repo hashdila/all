@@ -1,5 +1,5 @@
 fun main() {
-    println("Hello World!")
+    println(" Dilan 123456")
 
     val  a= "Dillan Nawarathna"
     val b ="Shirlanka japan"
